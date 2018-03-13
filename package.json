@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "fz": "babel-node fz.js",
+    "fz": "babel-node src/index.js",
     "test": "jest"
   },
   "devDependencies": {
