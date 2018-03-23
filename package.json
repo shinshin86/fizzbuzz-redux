@@ -1,6 +1,7 @@
 {
   "scripts": {
     "fz": "babel-node src/index.js",
+    "saga-fz": "babel-node saga-src/index.js",
     "test": "jest"
   },
   "devDependencies": {
@@ -10,6 +11,7 @@
     "jest": "^22.4.2"
   },
   "dependencies": {
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0"
   }
 }

@@ -14,7 +14,7 @@ git clone https://github.com/shinshin86/fizzbuzz-redux.git
 yarn
 
 # go!
-yarn run fz
+yarn run fz # or  yarn run saga-fz
 
 ↓
 
